@@ -12,7 +12,7 @@
 	<artifactId>URLFeederService</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>URLFeederService</name>
-	<description>This service will takes an URL, and stores to DB , if validated</description>
+	<description>This service will take a URL, and stores to DB, if validated.</description>
 	<properties>
 		<java.version>17</java.version>
 	</properties>
